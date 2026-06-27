@@ -256,7 +256,7 @@ done
 echo ""
 echo "========================================"
 if [ "$HEALTH_OK" = true ]; then
-    info "安装成功！数据已开始发送到 STM32"
+    info "安装成功！数据已开始发送到屏幕"
     echo ""
     echo "  安装模式: $INSTALL_MODE"
     echo "  串口:     $SERIAL_PORT"
